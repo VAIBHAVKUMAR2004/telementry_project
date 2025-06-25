@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": 1659338400000,
+        "sensor": "temperature",
+        "value": 25.4
+    },
+    {
+        "timestamp": 1659392800000,
+        "sensor": "temperature",
+        "value": 25.4
+    }
+]
